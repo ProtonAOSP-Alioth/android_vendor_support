@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.preferences;
+package com.bianca.support.preferences;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
