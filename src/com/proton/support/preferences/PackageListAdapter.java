@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.preferences;
+package com.proton.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bianca.support.R;
+import com.proton.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.colorpicker;
+package com.proton.support.colorpicker;
 
 import android.app.AlertDialog;
 import android.app.NotificationManager;
@@ -31,7 +31,7 @@ import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
 
-import com.bianca.support.R;
+import com.proton.support.R;
 
 public class ColorPickerDialog extends AlertDialog implements ColorPickerView.OnColorChangedListener, View.OnClickListener {
 

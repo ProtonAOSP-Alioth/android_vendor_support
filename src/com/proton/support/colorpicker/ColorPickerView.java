@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.colorpicker;
+package com.proton.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.preferences;
+package com.proton.support.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
@@ -22,7 +22,7 @@ import androidx.preference.PreferenceViewHolder;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.bianca.support.R;
+import com.proton.support.R;
 
 public class TwoTargetPreference extends Preference {
 

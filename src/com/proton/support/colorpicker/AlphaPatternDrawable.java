@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.colorpicker;
+package com.proton.support.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.bianca.support.preferences;
+package com.proton.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.bianca.support.preferences.SystemSettingsStore;
+import com.proton.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 

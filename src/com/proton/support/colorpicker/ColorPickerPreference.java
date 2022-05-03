@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.bianca.support.colorpicker;
+package com.proton.support.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -36,7 +36,7 @@ import android.widget.LinearLayout;
 
 import androidx.preference.*;
 
-import com.bianca.support.R;
+import com.proton.support.R;
 
 /**
  * A preference type that allows a user to choose a time
